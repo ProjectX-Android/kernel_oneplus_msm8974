@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_3a643ce4",
+        "filename": "Makefile",
+        "patchSetId": 2
+      },
+      "lineNbr": 699,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-06-27T16:18:04Z",
+      "side": 1,
+      "message": "enable this if-condition, unless you get errors",
+      "revId": "00056c2891154d5dd02e04fca9309c85d01722c8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
